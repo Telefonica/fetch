@@ -12,9 +12,6 @@
     "Uint8Array": true,
     "globalThis": true
   },
-  "extends": [
-    "plugin:github/browser"
-  ],
   "rules": {
     "object-shorthand": "off"
   },
