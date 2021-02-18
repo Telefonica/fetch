@@ -4,7 +4,10 @@
   "version": "3.5.0",
   "main": "./dist/fetch.umd.js",
   "module": "./fetch.js",
-  "repository": "github/fetch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Telefonica/stv-fetch.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "abortcontroller-polyfill": "^1.1.9",
